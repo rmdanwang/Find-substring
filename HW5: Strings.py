@@ -1,6 +1,4 @@
-# Homework 6 by Ru Meng(Dan) Wang
-
-#this is to verify that function find works the same as the find() built in function
+# this is to verify that function find works the same as the find() built in function
 str = "abracadabra"
 print(str.find("ada"))
 
